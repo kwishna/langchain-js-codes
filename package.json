@@ -1,0 +1,24 @@
+{
+	"name": "langchain-js-code",
+	"version": "1.0.0",
+	"description": "Learning Langchain.JS",
+	"main": "index.js",
+	"scripts": {
+	  "test": ""
+	},
+	"keywords": [
+	  "langchian-js",
+	  "langchain",
+	  "ai",
+	  "llm",
+	  "ai-agents"
+	],
+	"author": "Krishna Kumar Singh",
+	"license": "ISC",
+	"dependencies": {
+		"@langchain/community": "^0.2.15",
+		"@langchain/core": "^0.2.10",
+		"@langchain/openai": "^0.2.1",
+		"langchain": "^0.2.8"
+	}
+}
