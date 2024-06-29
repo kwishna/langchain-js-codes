@@ -4,14 +4,14 @@
 	"description": "Learning Langchain.JS",
 	"main": "index.js",
 	"scripts": {
-	  "test": ""
+		"test": ""
 	},
 	"keywords": [
-	  "langchian-js",
-	  "langchain",
-	  "ai",
-	  "llm",
-	  "ai-agents"
+		"langchian-js",
+		"langchain",
+		"ai",
+		"llm",
+		"ai-agents"
 	],
 	"author": "Krishna Kumar Singh",
 	"license": "ISC",
@@ -19,6 +19,8 @@
 		"@langchain/community": "^0.2.15",
 		"@langchain/core": "^0.2.10",
 		"@langchain/openai": "^0.2.1",
+		"@supabase/supabase-js": "^2.44.2",
+		"dotenv": "^16.4.5",
 		"langchain": "^0.2.8"
 	}
 }
